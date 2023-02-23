@@ -1,0 +1,1 @@
+node HTTP-BROWSER.js --key=LICENSE-MAINHSJS --time=10000 --threads=1  --requests=1 --mode=GET --proxy=socks4.txt --target=
